@@ -9,7 +9,8 @@
   - 비상 호출 버튼으로 위험 상황을 관리자에게 알림
 
 ## 시스템 아키텍처
-<img width="721" alt="factoryvision_시스템 아키텍처" src="https://github.com/factoryvision/.github/assets/103443650/c35cbdfe-11c3-47e8-bbcf-4a59a6d15390">
+<img width="765" alt="스크린샷 2024-04-19 오후 3 35 15" src="https://github.com/factoryvision/.github/assets/103443650/48bfd49f-0860-46e2-9750-1d250b501e1d">
+
 
 
 ## DB ERD
